@@ -1,0 +1,6298 @@
+{
+  "algorithm": "Ghidra FidService MessageDigestFidHasher (full+specific)",
+  "entries": [
+    {
+      "full_hash": "-102956389045626362",
+      "specific_hash": "-9198521669953043483",
+      "names": [
+        "tcache_init.part.0"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-1041163845190388869",
+      "specific_hash": "1569580367884677405",
+      "names": [
+        "CRYPTO_atomic_add"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-1046580458316030707",
+      "specific_hash": "7745068947996645477",
+      "names": [
+        "inflateCopy"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-1073574646599027988",
+      "specific_hash": "3392709637290439283",
+      "names": [
+        "two_way_long_needle"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-1083189497195226054",
+      "specific_hash": "-8967255771440099411",
+      "names": [
+        "gzputc"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-1141071701217294262",
+      "specific_hash": "-3104972973059332609",
+      "names": [
+        "ossl_md5_sha1_ctrl"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-1169939563149106680",
+      "specific_hash": "2833274395043799065",
+      "names": [
+        "build_bl_tree"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-1197498602095060330",
+      "specific_hash": "1057416340393975896",
+      "names": [
+        "deflateParams"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-1218301426016137335",
+      "specific_hash": "3620992896882752508",
+      "names": [
+        "gzfread"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-1236953451029980015",
+      "specific_hash": "-8493362515873102951",
+      "names": [
+        "deflateGetDictionary"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-1239025202871021720",
+      "specific_hash": "7192944291108510223",
+      "names": [
+        "memset"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-1284175189114420530",
+      "specific_hash": "4439458191058596310",
+      "names": [
+        "gzsetparams"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-1314615237283373966",
+      "specific_hash": "-2403709412007069268",
+      "names": [
+        "arena_get_retry"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-1317130286011243081",
+      "specific_hash": "-5515268727092947563",
+      "names": [
+        "inflateInit_"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-1317863433926398281",
+      "specific_hash": "1127172855563335543",
+      "names": [
+        "_tr_align"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-1350445802582684825",
+      "specific_hash": "-7262690160786668546",
+      "names": [
+        "OPENSSL_rdtsc"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-1475149260720415068",
+      "specific_hash": "-5508164162107678831",
+      "names": [
+        "deflateResetKeep"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-1494899986739988304",
+      "specific_hash": "-8977474308684255024",
+      "names": [
+        "deflateTune"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-1520539619829675569",
+      "specific_hash": "-8801894202411677078",
+      "names": [
+        "inflateSync"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-1520947963383351121",
+      "specific_hash": "3897001079486321966",
+      "names": [
+        "gzprintf"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-1589113420733274277",
+      "specific_hash": "3891387262317149022",
+      "names": [
+        "gz_decomp"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-1622118365663737258",
+      "specific_hash": "-6321636724124628791",
+      "names": [
+        "gzputs"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-1639490090032121982",
+      "specific_hash": "-8517806266235687223",
+      "names": [
+        "gzopen",
+        "gzopen64"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-1643041639000368646",
+      "specific_hash": "3770525862148076603",
+      "names": [
+        "sha1_block_data_order_avx"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-1657136737856243893",
+      "specific_hash": "-5769461612708955048",
+      "names": [
+        "free"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-1662153800955401067",
+      "specific_hash": "-1220418246326547911",
+      "names": [
+        "compressBound"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2",
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-172437987820233953",
+      "specific_hash": "592614905542409019",
+      "names": [
+        "inflateEnd"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-1808293293561054404",
+      "specific_hash": "8832969742776677618",
+      "names": [
+        "build_tree"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-1819910718305706832",
+      "specific_hash": "6150477903171729681",
+      "names": [
+        "crc_word_big"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-1862598457870817140",
+      "specific_hash": "8887386840380823782",
+      "names": [
+        "bi_windup"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-1947973448544827321",
+      "specific_hash": "6376315345630760952",
+      "names": [
+        "gz_write"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-1950429713206841640",
+      "specific_hash": "-3793844808170530339",
+      "names": [
+        "deflateBound"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-1954438123299884746",
+      "specific_hash": "-9052488912053324257",
+      "names": [
+        "bi_windup"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-1962350991670520859",
+      "specific_hash": "-8208091136787763682",
+      "names": [
+        "inflateGetHeader"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2",
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-1969793226377275595",
+      "specific_hash": "4057460162269248954",
+      "names": [
+        "deflatePrime"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-1975322917751691094",
+      "specific_hash": "-5131976338666727111",
+      "names": [
+        "OPENSSL_cpuid_setup"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-2005715249516330850",
+      "specific_hash": "-7513016356176201948",
+      "names": [
+        "gz_read"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-201787896488220831",
+      "specific_hash": "-6032654713584376520",
+      "names": [
+        "gz_read"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-2023102541483153007",
+      "specific_hash": "126321456842152792",
+      "names": [
+        "gzdopen"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-2026980257954040829",
+      "specific_hash": "9112130418226320140",
+      "names": [
+        "_int_free"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-2053617227214870606",
+      "specific_hash": "5998291372262862089",
+      "names": [
+        "zError"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-2072516318003320687",
+      "specific_hash": "-1489192568052324977",
+      "names": [
+        "inflateInit2_"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-2074591959654628554",
+      "specific_hash": "4345897989172057937",
+      "names": [
+        "gz_skip.constprop.0"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-2111860964974953043",
+      "specific_hash": "7869881824548234969",
+      "names": [
+        "inflateSync"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-2127739217840661185",
+      "specific_hash": "-5408840171866871175",
+      "names": [
+        "inflateStateCheck"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-2162164456079366714",
+      "specific_hash": "-2944935793730955540",
+      "names": [
+        "gz_look"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-2183839913049097424",
+      "specific_hash": "-4685404849832189574",
+      "names": [
+        "deflateStateCheck.part.0"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-2226375647841787057",
+      "specific_hash": "6984676874812149597",
+      "names": [
+        "SHA512_Final"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-2232733122331351652",
+      "specific_hash": "-7873378616847022657",
+      "names": [
+        "scan_tree"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-2235119220112072296",
+      "specific_hash": "-27638280835305141",
+      "names": [
+        "gz_fetch"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-2255585301659315532",
+      "specific_hash": "-235998962714609973",
+      "names": [
+        "OPENSSL_instrument_bus2"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-2274449039003426394",
+      "specific_hash": "-7923089644632383048",
+      "names": [
+        "inflateInit_"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-2303744887663515512",
+      "specific_hash": "-7962616725471606005",
+      "names": [
+        "deflateInit_"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-2332442730596250401",
+      "specific_hash": "-2841487155714907191",
+      "names": [
+        "gzrewind"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-23338334961790167",
+      "specific_hash": "171428633393909785",
+      "names": [
+        "adler32_z"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-2344034658839466641",
+      "specific_hash": "3826387315094471191",
+      "names": [
+        "adler32",
+        "crc32"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-23851497262941043",
+      "specific_hash": "-7518154265216994600",
+      "names": [
+        "sha1_block_data_order_shaext"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-2386502700983454983",
+      "specific_hash": "2352060191907960044",
+      "names": [
+        "inflateBackEnd"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-2391246809535957476",
+      "specific_hash": "-4031870257693831774",
+      "names": [
+        "init_block"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-2433214105420933821",
+      "specific_hash": "742173481506062071",
+      "names": [
+        "OPENSSL_ia32_rdrand_bytes"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-2436344319652651818",
+      "specific_hash": "3256471785262099699",
+      "names": [
+        "deflateResetKeep"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-2452961353022846173",
+      "specific_hash": "3299794282352345962",
+      "names": [
+        "updatewindow"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-2545452940246206622",
+      "specific_hash": "965894293473073087",
+      "names": [
+        "arena_get2.part.0"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-2609117231742555656",
+      "specific_hash": "8055862847016451119",
+      "names": [
+        "build_tree"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-2623941810059466701",
+      "specific_hash": "-3411516818779186707",
+      "names": [
+        "ptmalloc_init.part.0"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-2654618448509811658",
+      "specific_hash": "-431875275589484289",
+      "names": [
+        "bi_windup"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-2706645690770051614",
+      "specific_hash": "1255423554902897809",
+      "names": [
+        "gzgetc",
+        "gzgetc_"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-2723451485474257831",
+      "specific_hash": "7331154256812023726",
+      "names": [
+        "inflateBack"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-2736023903077839980",
+      "specific_hash": "1323138808964873276",
+      "names": [
+        "inflate_table"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-2741202812101842308",
+      "specific_hash": "4553343791332411636",
+      "names": [
+        "mallinfo"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-2764547268869796334",
+      "specific_hash": "-7435390012509022210",
+      "names": [
+        "gz_read"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-2786807047787015831",
+      "specific_hash": "997732904905682370",
+      "names": [
+        "gz_zero.constprop.0"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-2798228854662872980",
+      "specific_hash": "-5685937375393179605",
+      "names": [
+        "gzbuffer"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-2837482824130035861",
+      "specific_hash": "8576037637567919345",
+      "names": [
+        "__vsnprintf_internal"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-2860409583060956676",
+      "specific_hash": "-858879215286034563",
+      "names": [
+        "get_free_list"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-2862076282808189229",
+      "specific_hash": "-7889828199024423167",
+      "names": [
+        "crc32_combine_op"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-2866455669631704766",
+      "specific_hash": "-5138415438339530086",
+      "names": [
+        "inflateBackEnd"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-2917065725230175952",
+      "specific_hash": "4747149790537928308",
+      "names": [
+        "inflateResetKeep"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-2923166184733358586",
+      "specific_hash": "-629192791512114959",
+      "names": [
+        "gzfwrite"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-2931305019076382967",
+      "specific_hash": "6344349356842607665",
+      "names": [
+        "byte_swap"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-2936032187509270723",
+      "specific_hash": "-2716061668344773688",
+      "names": [
+        "_mid_memalign.isra.0"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-2938828873109634547",
+      "specific_hash": "-7571472831088546512",
+      "names": [
+        "_int_free_merge_chunk"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-2951551552739494187",
+      "specific_hash": "8668984942820144597",
+      "names": [
+        "inflateSyncPoint"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2",
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-2960025143664669787",
+      "specific_hash": "1013090752134488339",
+      "names": [
+        "__printf_buffer_snprintf_done"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-2991637697872972920",
+      "specific_hash": "2524585581663765780",
+      "names": [
+        "_tr_align"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-2993783406389680530",
+      "specific_hash": "502921893978206078",
+      "names": [
+        "inflate"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-3032206229267643352",
+      "specific_hash": "5266099072517909985",
+      "names": [
+        "inflateBack"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-3045107642146433835",
+      "specific_hash": "-2913321991001385609",
+      "names": [
+        "inflateMark"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2",
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-3050820627142086069",
+      "specific_hash": "-4603470472317893846",
+      "names": [
+        "deflate_stored"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-307539394874759853",
+      "specific_hash": "-145463134174435474",
+      "names": [
+        "longest_match"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-30762234887437361",
+      "specific_hash": "-1272471388260491591",
+      "names": [
+        "gzbuffer"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2",
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-3088666340335625496",
+      "specific_hash": "879033985824267680",
+      "names": [
+        "pqdownheap.constprop.0"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-3097220900241538999",
+      "specific_hash": "-6591786140540816631",
+      "names": [
+        "gzgetc"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-3097535230052210097",
+      "specific_hash": "2825698698212719658",
+      "names": [
+        "gz_error"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-3139997965403818546",
+      "specific_hash": "-6394841653942614115",
+      "names": [
+        "inflateBackInit_"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-318746479839824148",
+      "specific_hash": "1256099554465435873",
+      "names": [
+        "malloc_stats"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-3193178768681026752",
+      "specific_hash": "-5382961787390123024",
+      "names": [
+        "__printf_buffer_snprintf_init"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-3229989143656358795",
+      "specific_hash": "-7769786763230481003",
+      "names": [
+        "gz_read"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-3234982609479297004",
+      "specific_hash": "2399962231920749649",
+      "names": [
+        "gz_init"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-3263242398315401533",
+      "specific_hash": "-373235588144810707",
+      "names": [
+        "_tr_tally"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-3264069489741406885",
+      "specific_hash": "-8200603288741489221",
+      "names": [
+        "read_buf"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-3278517461909829011",
+      "specific_hash": "4924782613667984890",
+      "names": [
+        "inflateMark"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-3290190828869562863",
+      "specific_hash": "6909984997216949611",
+      "names": [
+        "gzbuffer"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-3301124621537978342",
+      "specific_hash": "-2472226087627884220",
+      "names": [
+        "gzeof"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2",
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-3404472031590240466",
+      "specific_hash": "-2774309001602021765",
+      "names": [
+        "gzprintf"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-3442178300526012411",
+      "specific_hash": "-7404309576709940455",
+      "names": [
+        "gzdirect"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-3456630289789432171",
+      "specific_hash": "-4763807558307571432",
+      "names": [
+        "gz_comp"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-3491341412221347091",
+      "specific_hash": "-8514537585457798024",
+      "names": [
+        "inflateSetDictionary"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-3599748904669287576",
+      "specific_hash": "-4594481589549037690",
+      "names": [
+        "deflate_slow"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-3649618615170402064",
+      "specific_hash": "8602527927081734836",
+      "names": [
+        "bi_flush"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-3687053405478763493",
+      "specific_hash": "7387681502214185618",
+      "names": [
+        "crc32_combine_gen64"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-3693169090702587262",
+      "specific_hash": "-1887002129486803829",
+      "names": [
+        "gzrewind"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-3748869116719462255",
+      "specific_hash": "3617254627367012690",
+      "names": [
+        "deflateStateCheck"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-3797286214394319620",
+      "specific_hash": "6124290021063626050",
+      "names": [
+        "CRYPTO_atomic_or"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-3864552083402283692",
+      "specific_hash": "-25859075969839874",
+      "names": [
+        "alloc_perturb"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-3869311117921213826",
+      "specific_hash": "-395626454173318029",
+      "names": [
+        "ossl_ctype_check"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-388514783127093151",
+      "specific_hash": "-1732387154934447256",
+      "names": [
+        "fixedtables"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-3936329538357610297",
+      "specific_hash": "5323552694394616135",
+      "names": [
+        "compress_block"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-3955458158818943483",
+      "specific_hash": "-5628814653668609317",
+      "names": [
+        "sha512_block_data_order_avx2"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-396015104385573274",
+      "specific_hash": "-7264311317800162858",
+      "names": [
+        "sha1_multi_block"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-396571198289994259",
+      "specific_hash": "8100214811816737167",
+      "names": [
+        "gzseek64"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-4006632716117625877",
+      "specific_hash": "6090907234502756798",
+      "names": [
+        "strstr"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-4011835374447106237",
+      "specific_hash": "3484155331641789731",
+      "names": [
+        "build_tree"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-4018088919240332179",
+      "specific_hash": "-3544207528100714040",
+      "names": [
+        "SHA1_Final"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-4021320794459241383",
+      "specific_hash": "3860185149220590677",
+      "names": [
+        "CRYPTO_THREAD_lock_free"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-4034798983286027783",
+      "specific_hash": "-4507665284446973184",
+      "names": [
+        "gzclose_w"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-4071408513468455507",
+      "specific_hash": "-1731579668560822661",
+      "names": [
+        "posix_memalign"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-4090425989807317536",
+      "specific_hash": "9201568108550464827",
+      "names": [
+        "sha512_block_data_order"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-4122101635975740232",
+      "specific_hash": "7295224820191453810",
+      "names": [
+        "gz_avail"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-4215441915538299541",
+      "specific_hash": "4526013545488371744",
+      "names": [
+        "sha256_multi_block_avx2"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-4222875366045338421",
+      "specific_hash": "-6174606211371159715",
+      "names": [
+        "compress_block"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-4324962344215171445",
+      "specific_hash": "-5325106848771788778",
+      "names": [
+        "ossl_sha1"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-4324962344215171445",
+      "specific_hash": "-7704103434456302497",
+      "names": [
+        "MD5"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-4333360473888314638",
+      "specific_hash": "9026834236405377303",
+      "names": [
+        "CRYPTO_THREAD_lock_new"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-4335386416720943382",
+      "specific_hash": "-1300789534930850129",
+      "names": [
+        "malloc_info"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-4370027208247114059",
+      "specific_hash": "-5902542923112302027",
+      "names": [
+        "build_tree"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-4374607420789213812",
+      "specific_hash": "-7849509228923851456",
+      "names": [
+        "deflateReset"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-4426731821821279116",
+      "specific_hash": "-6289070863525659156",
+      "names": [
+        "realloc"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-454581582696154614",
+      "specific_hash": "1982489341646228021",
+      "names": [
+        "sha512_block_data_order_avx"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-4627537526796552755",
+      "specific_hash": "-6416978202181869402",
+      "names": [
+        "__malloc_fork_unlock_parent"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-4670334544284963749",
+      "specific_hash": "8601402418630437710",
+      "names": [
+        "ossl_strtouint64"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-4688250085030898156",
+      "specific_hash": "-303499526602787188",
+      "names": [
+        "gzwrite"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-4745236752458854",
+      "specific_hash": "-2310339767976323303",
+      "names": [
+        "init_block"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-481838445852340499",
+      "specific_hash": "1477124832619144603",
+      "names": [
+        "gz_zero"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-4825973869320169835",
+      "specific_hash": "8704859565278127629",
+      "names": [
+        "gz_load"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-4842750858699656197",
+      "specific_hash": "-1802896660326518142",
+      "names": [
+        "read_buf"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-4849079120133222355",
+      "specific_hash": "-6905008869384511936",
+      "names": [
+        "CRYPTO_memcmp"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-4922019888917922767",
+      "specific_hash": "-5307366798710986649",
+      "names": [
+        "inflate_table"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-4948211027285670930",
+      "specific_hash": "8458794781245883371",
+      "names": [
+        "bcmp"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-4969403171363390816",
+      "specific_hash": "178280836391291245",
+      "names": [
+        "strcmp"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-5133442656975659183",
+      "specific_hash": "1828752208157524696",
+      "names": [
+        "deflateReset"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-5181818086364409690",
+      "specific_hash": "-214432302258839509",
+      "names": [
+        "adler32_z"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-5186785370235636988",
+      "specific_hash": "-3678336062597184233",
+      "names": [
+        "gz_comp"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-5245379908690119667",
+      "specific_hash": "-2233779577664623497",
+      "names": [
+        "gz_decomp"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-5267795419331295523",
+      "specific_hash": "5848594336248061079",
+      "names": [
+        "gztell",
+        "gztell64"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2",
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-5329155974626765134",
+      "specific_hash": "6101455746038585145",
+      "names": [
+        "inflateSyncPoint"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-5336863542332185928",
+      "specific_hash": "-7000442096136613328",
+      "names": [
+        "inflateCodesUsed"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2",
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-5373542471218019207",
+      "specific_hash": "-8326719373666430950",
+      "names": [
+        "memcpy",
+        "memmove"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-5386899473132456218",
+      "specific_hash": "7301464279072369224",
+      "names": [
+        "deflateParams"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-5404879929448816005",
+      "specific_hash": "-6803639837486573520",
+      "names": [
+        "gzclearerr"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-5419231920364361100",
+      "specific_hash": "6117672666984782375",
+      "names": [
+        "crc32_z"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-5544848669719283173",
+      "specific_hash": "3195815387289181151",
+      "names": [
+        "OPENSSL_ia32_rdseed_bytes"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-5567847188634420726",
+      "specific_hash": "-6256690343532775815",
+      "names": [
+        "strcpy"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-5600118265052970640",
+      "specific_hash": "-1470165923192740518",
+      "names": [
+        "gz_load"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-564617763097696379",
+      "specific_hash": "-3315968019925054173",
+      "names": [
+        "gzwrite"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-5652469793436787621",
+      "specific_hash": "-6604775478804897494",
+      "names": [
+        "gzclose_w"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-5666722571324860829",
+      "specific_hash": "-3939424812916743074",
+      "names": [
+        "inflateUndermine"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-5717109802659502899",
+      "specific_hash": "8909337173889992753",
+      "names": [
+        "compressBound"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-5818239940648392502",
+      "specific_hash": "-3136290020520787012",
+      "names": [
+        "gz_error"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-5851005751810434397",
+      "specific_hash": "-5021023252798381668",
+      "names": [
+        "deflatePending"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-5859212978050702648",
+      "specific_hash": "-3659766764498136382",
+      "names": [
+        "flush_pending"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-597688073901233063",
+      "specific_hash": "2480387942488071714",
+      "names": [
+        "gzseek"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-598598074390080594",
+      "specific_hash": "-1694970666046263378",
+      "names": [
+        "gz_error"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-600375169586968222",
+      "specific_hash": "-8189485127900278722",
+      "names": [
+        "inflate"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-6015445964520742341",
+      "specific_hash": "1696850995065834274",
+      "names": [
+        "deflateCopy"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-6036285104557126805",
+      "specific_hash": "99355083420856966",
+      "names": [
+        "deflate_huff"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-6073456136817657269",
+      "specific_hash": "-1691977220040170006",
+      "names": [
+        "compress2"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-6082317874954859419",
+      "specific_hash": "-6771598941604606615",
+      "names": [
+        "__malloc_fork_lock_parent"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-6119075976993619246",
+      "specific_hash": "5941814351189582608",
+      "names": [
+        "gzerror"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-6125159922786620060",
+      "specific_hash": "7833992286355596249",
+      "names": [
+        "gz_open"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-6140601624041169442",
+      "specific_hash": "-8674255111760264712",
+      "names": [
+        "deflateGetDictionary"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-6143989504353324505",
+      "specific_hash": "-975052111289987224",
+      "names": [
+        "deflateReset"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-6145530029681996284",
+      "specific_hash": "1491180208104464913",
+      "names": [
+        "longest_match"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-6147305265500148060",
+      "specific_hash": "-5445832297264487675",
+      "names": [
+        "updatewindow"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-6154909318401834990",
+      "specific_hash": "3160786666314421400",
+      "names": [
+        "gzflush"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-6263582667656433436",
+      "specific_hash": "-3683374161621299101",
+      "names": [
+        "sha256_block_data_order_avx"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-6298611124686825989",
+      "specific_hash": "4611951660533170700",
+      "names": [
+        "bi_reverse"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-6318927069436515698",
+      "specific_hash": "2337960907300460228",
+      "names": [
+        "_int_realloc"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-6323175749237573580",
+      "specific_hash": "2761350510177907642",
+      "names": [
+        "gz_load"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-6333333925425995542",
+      "specific_hash": "-3830254484525262600",
+      "names": [
+        "deflateParams"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-6350317231144633256",
+      "specific_hash": "-4044247046158717764",
+      "names": [
+        "inflateEnd"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-6361868404478258766",
+      "specific_hash": "8664983394331607965",
+      "names": [
+        "gz_write"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-6376052375694633535",
+      "specific_hash": "8265130245291753960",
+      "names": [
+        "inflate"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-6415628349950470724",
+      "specific_hash": "8601011072976578797",
+      "names": [
+        "__strlen_avx2"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-6422688303715222932",
+      "specific_hash": "1503529604674674849",
+      "names": [
+        "OPENSSL_instrument_bus"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-6451896317956769205",
+      "specific_hash": "6456883095705283325",
+      "names": [
+        "bi_reverse"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-6467420909985378078",
+      "specific_hash": "-6451271986967760578",
+      "names": [
+        "inflateBackInit_"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-6520115303452725596",
+      "specific_hash": "-3671384788915302634",
+      "names": [
+        "inflate_table"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-6566591793404265060",
+      "specific_hash": "-1171353090043705332",
+      "names": [
+        "adler32_combine",
+        "adler32_combine64",
+        "crc32_combine"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-6597902739636676073",
+      "specific_hash": "8922198309075705075",
+      "names": [
+        "deflateSetDictionary"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-6627163559593955440",
+      "specific_hash": "-8292873221651047420",
+      "names": [
+        "deflate_slow"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-6643966105184190441",
+      "specific_hash": "6625548887708126747",
+      "names": [
+        "gz_init"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-6660841444350549477",
+      "specific_hash": "-2921876012875361363",
+      "names": [
+        "crc_word"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-673232666425653258",
+      "specific_hash": "1565138746104243557",
+      "names": [
+        "gzputs"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-6751557380006624517",
+      "specific_hash": "6737995628368720098",
+      "names": [
+        "inflateInit2_"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-6993611063860234688",
+      "specific_hash": "1566084321714995593",
+      "names": [
+        "_tr_send_bits"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-701282173886291949",
+      "specific_hash": "4616655088919038",
+      "names": [
+        "inflateValidate"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-7027251829075962213",
+      "specific_hash": "-622276267363295331",
+      "names": [
+        "OPENSSL_cleanse"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-7094592283112916551",
+      "specific_hash": "5858603314936192718",
+      "names": [
+        "gz_look"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-7097070639622005131",
+      "specific_hash": "4250125094319036369",
+      "names": [
+        "_dl_tunable_set_tcache_max"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-7106650091870667381",
+      "specific_hash": "-7304961598021390897",
+      "names": [
+        "_dl_tunable_set_arena_max",
+        "_dl_tunable_set_arena_test",
+        "_dl_tunable_set_tcache_unsorted_limit"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-7121773606157137752",
+      "specific_hash": "-3305412590209718527",
+      "names": [
+        "SHA256_Init"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-7121773606157137752",
+      "specific_hash": "2182614991080653016",
+      "names": [
+        "SHA224_Init"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-7143809745770433032",
+      "specific_hash": "8678405821972016432",
+      "names": [
+        "send_all_trees"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-7145280207645348041",
+      "specific_hash": "-703905047027267464",
+      "names": [
+        "_tr_stored_block"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-7148594902972871731",
+      "specific_hash": "-7084999950794836963",
+      "names": [
+        "deflateCopy"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-7166117357122323769",
+      "specific_hash": "-2792526405463903154",
+      "names": [
+        "deflatePrime"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-7172676680285087915",
+      "specific_hash": "-6324802282295258369",
+      "names": [
+        "_tr_flush_bits"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2",
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-7198033874264528045",
+      "specific_hash": "8150873897174708477",
+      "names": [
+        "gzoffset64"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-7210893735967042608",
+      "specific_hash": "-1805192343302058122",
+      "names": [
+        "gzopen",
+        "gzopen64"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2",
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-7238968776736075391",
+      "specific_hash": "6239090305517380539",
+      "names": [
+        "gzoffset",
+        "gzoffset64"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-7239014624138830875",
+      "specific_hash": "5459832647559861883",
+      "names": [
+        "__malloc_info.part.0"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-7245732504272026610",
+      "specific_hash": "-8681803296622149731",
+      "names": [
+        "ossl_toupper"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-7245732504272026610",
+      "specific_hash": "8976312385302254251",
+      "names": [
+        "ossl_tolower"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-7247499845481961203",
+      "specific_hash": "2994360867041153146",
+      "names": [
+        "deflatePending"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-732628187290510947",
+      "specific_hash": "-4209457285152862282",
+      "names": [
+        "OPENSSL_ia32_cpuid"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-7329720449738326840",
+      "specific_hash": "739765551959391852",
+      "names": [
+        "deflate_stored"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-733512537268902534",
+      "specific_hash": "2604153252150527828",
+      "names": [
+        "munmap_chunk"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-7339465593260654325",
+      "specific_hash": "2525895127318115909",
+      "names": [
+        "putShortMSB"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-737500759136718401",
+      "specific_hash": "-6906562077655737476",
+      "names": [
+        "deflateSetDictionary"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-7381272763918986048",
+      "specific_hash": "-6001150266987871394",
+      "names": [
+        "deflateInit2_"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-7393764240232375757",
+      "specific_hash": "1785488498844411905",
+      "names": [
+        "deflateInit2_"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-7425809950805479467",
+      "specific_hash": "-8618166469930837883",
+      "names": [
+        "__printf_buffer_flush_snprintf"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-745339548329467718",
+      "specific_hash": "-8634190977638947849",
+      "names": [
+        "gzvprintf"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-7470040656501755799",
+      "specific_hash": "-919101920566804286",
+      "names": [
+        "inflateSetDictionary"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-7522502917599033178",
+      "specific_hash": "-4886049888233816882",
+      "names": [
+        "ossl_md5_sha1_update"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-752380283763592375",
+      "specific_hash": "-1247386437876420034",
+      "names": [
+        "deflatePrime"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-7541256160293489414",
+      "specific_hash": "-952313688013800142",
+      "names": [
+        "compress_block"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-7566630670530959345",
+      "specific_hash": "-7604473194819977308",
+      "names": [
+        "sha1_multi_block_shaext"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-7621625823726707255",
+      "specific_hash": "1330946641217881002",
+      "names": [
+        "pqdownheap"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-7627810584714792951",
+      "specific_hash": "-8759328502448519649",
+      "names": [
+        "CRYPTO_atomic_load"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-7628738329708165189",
+      "specific_hash": "-2327210515017678365",
+      "names": [
+        "inflateReset"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-7662768408948137653",
+      "specific_hash": "2172783322580276890",
+      "names": [
+        "syncsearch"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-7729691591465952656",
+      "specific_hash": "-8305889866094752513",
+      "names": [
+        "inflateValidate"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-7762750102694931753",
+      "specific_hash": "-4079311591512955819",
+      "names": [
+        "gzvprintf"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-7804906582060328796",
+      "specific_hash": "-9174010179219829554",
+      "names": [
+        "_tr_tally"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-7837614243160352958",
+      "specific_hash": "-8753018308328889978",
+      "names": [
+        "gztell64"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-7876710570337692832",
+      "specific_hash": "8427082554868790110",
+      "names": [
+        "deflate_slow"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-7904700212648886152",
+      "specific_hash": "8587402374821646794",
+      "names": [
+        "sha256_multi_block_avx"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-7907350572330082632",
+      "specific_hash": "-7254410139854436431",
+      "names": [
+        "gzvprintf"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-7908292297919719105",
+      "specific_hash": "8888600383168354039",
+      "names": [
+        "lm_init"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-7937713054679616021",
+      "specific_hash": "-3375272812566627690",
+      "names": [
+        "gz_open"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-794103405520740809",
+      "specific_hash": "-794103405520740809",
+      "names": [
+        "tr_static_init"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-8008964619600477777",
+      "specific_hash": "-1515942424087264823",
+      "names": [
+        "deflateEnd"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-8018183782821942394",
+      "specific_hash": "-6441366537084035505",
+      "names": [
+        "inflateMark"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-8074321826963714938",
+      "specific_hash": "-4992541903647299705",
+      "names": [
+        "OPENSSL_wipe_cpu"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-8123953601631049402",
+      "specific_hash": "-6166124475701601326",
+      "names": [
+        "deflateSetHeader"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-8127945393603152832",
+      "specific_hash": "1428455727310450968",
+      "names": [
+        "send_tree"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-8145677411534272096",
+      "specific_hash": "1206024471551030327",
+      "names": [
+        "inflateBackEnd"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-8198229790241514323",
+      "specific_hash": "-829309838804399991",
+      "names": [
+        "gzflush"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-8205511819860356125",
+      "specific_hash": "1219584877910905570",
+      "names": [
+        "inflateValidate"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-8210742786770009169",
+      "specific_hash": "295045806247286222",
+      "names": [
+        "gzgetc",
+        "gzgetc_"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-8244065204363780545",
+      "specific_hash": "-6904819135979200814",
+      "names": [
+        "gzvprintf"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-8259858648785555322",
+      "specific_hash": "-3811488003666020503",
+      "names": [
+        "deflateGetDictionary"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-8272415406787541294",
+      "specific_hash": "-4067920629739580999",
+      "names": [
+        "memchr"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-8300212813901506184",
+      "specific_hash": "4988787667667369080",
+      "names": [
+        "deflateInit_"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-8303237281577987435",
+      "specific_hash": "8445541619376432382",
+      "names": [
+        "gzseek64"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-8360216544049544883",
+      "specific_hash": "-390450533136875518",
+      "names": [
+        "deflateGetDictionary"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-8433779846131901483",
+      "specific_hash": "-6839282475003083170",
+      "names": [
+        "deflateCopy"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-8485714908790539307",
+      "specific_hash": "-6285319522287257227",
+      "names": [
+        "ossl_md5_sha1_init"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-8499521086614046539",
+      "specific_hash": "1163447286637941721",
+      "names": [
+        "compress2"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-8515958202275608838",
+      "specific_hash": "-6549765936243507009",
+      "names": [
+        "gzread"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-8623336763901781215",
+      "specific_hash": "5471223966546841686",
+      "names": [
+        "pqdownheap"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-8641318243655182620",
+      "specific_hash": "-4338270791880916347",
+      "names": [
+        "gzread"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-8702574625740704755",
+      "specific_hash": "-3498370183150806555",
+      "names": [
+        "gzdopen"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-8713075153125931992",
+      "specific_hash": "-975722746293576394",
+      "names": [
+        "gzdopen"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-8736447663131798201",
+      "specific_hash": "6137903437036223534",
+      "names": [
+        "gzputc"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-875828302409697300",
+      "specific_hash": "1561779319263651237",
+      "names": [
+        "pqdownheap"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-877485691428079346",
+      "specific_hash": "-3721873119268400152",
+      "names": [
+        "gzseek64"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-8779065273920205968",
+      "specific_hash": "-6546545076208743328",
+      "names": [
+        "inflate_fast"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-8779748914457183429",
+      "specific_hash": "451869045399773812",
+      "names": [
+        "OPENSSL_atomic_add"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-8780248476135081904",
+      "specific_hash": "-7487309729525382024",
+      "names": [
+        "_tr_stored_block"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-8797324956699417599",
+      "specific_hash": "2623929836366616655",
+      "names": [
+        "_dl_tunable_set_mxfast"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-8853505029197622008",
+      "specific_hash": "-5309516562270177696",
+      "names": [
+        "inflateCodesUsed"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-8860664281591828459",
+      "specific_hash": "9078158775599847773",
+      "names": [
+        "inflateGetDictionary"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-8918360700366267649",
+      "specific_hash": "8091146727144726189",
+      "names": [
+        "_dl_tunable_set_mmaps_max"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-8926312125243899074",
+      "specific_hash": "-5978159906360504324",
+      "names": [
+        "uncompress"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1",
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-8952277877080613229",
+      "specific_hash": "3142549192756855921",
+      "names": [
+        "uncompress"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-8953749234589163148",
+      "specific_hash": "-8865562388779404192",
+      "names": [
+        "gzflush"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-9027060121016217459",
+      "specific_hash": "-8383262635138776642",
+      "names": [
+        "SHA256_Final"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-903726118659246940",
+      "specific_hash": "5506376161703031590",
+      "names": [
+        "gzclose_w"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-9091677960099482392",
+      "specific_hash": "-2866133935333506859",
+      "names": [
+        "gz_fetch"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "-9092557190604102676",
+      "specific_hash": "-556676108420810000",
+      "names": [
+        "gzwrite"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-9141174565509184469",
+      "specific_hash": "1715321202767265822",
+      "names": [
+        "deflateTune"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "-9168551311472694563",
+      "specific_hash": "5744476815125696092",
+      "names": [
+        "SHA512_Update"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "-9217074369541268618",
+      "specific_hash": "-1964590102423322712",
+      "names": [
+        "deflatePending"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "-97571812260112043",
+      "specific_hash": "8602952125817273219",
+      "names": [
+        "deflateTune"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "-993077599252248855",
+      "specific_hash": "3157396653076052774",
+      "names": [
+        "gzerror"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2",
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "1002605817923705089",
+      "specific_hash": "3837744820962448633",
+      "names": [
+        "slide_hash"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "1016253496311622746",
+      "specific_hash": "5299273867025900952",
+      "names": [
+        "flush_pending"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "102457322435731320",
+      "specific_hash": "3538737060129329499",
+      "names": [
+        "gzputc"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "102864435797400705",
+      "specific_hash": "1318953748467334549",
+      "names": [
+        "crc32_combine",
+        "crc32_combine64"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "1045956814528767107",
+      "specific_hash": "335864836380046121",
+      "names": [
+        "_tr_tally"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "11097477840233953",
+      "specific_hash": "5193854387604223287",
+      "names": [
+        "read_buf"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "1149854361798433787",
+      "specific_hash": "-2725586422769161921",
+      "names": [
+        "sha1_multi_block_avx2"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "1150812962668057971",
+      "specific_hash": "-3789068745468660184",
+      "names": [
+        "adler32_combine",
+        "adler32_combine64"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "1172000748768585190",
+      "specific_hash": "-4058453778064250795",
+      "names": [
+        "gz_open"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "1228872706250073221",
+      "specific_hash": "614945879440619397",
+      "names": [
+        "scan_tree"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2",
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "1252832833295709214",
+      "specific_hash": "2646249211668932981",
+      "names": [
+        "crc32_combine64"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "1261840489589532320",
+      "specific_hash": "-4962247826727912157",
+      "names": [
+        "crc32_z"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "1302778961441976817",
+      "specific_hash": "8851784807499221928",
+      "names": [
+        "inflateSetDictionary"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "1354150844585298252",
+      "specific_hash": "9152116286792103355",
+      "names": [
+        "gzseek64"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "1400230137846514060",
+      "specific_hash": "-6407767704666491507",
+      "names": [
+        "inflateResetKeep"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "1405988638693252769",
+      "specific_hash": "-236146693912672879",
+      "names": [
+        "deflateResetKeep"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "1434451811280992860",
+      "specific_hash": "6724369179304449598",
+      "names": [
+        "inflateCopy"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "1446190730887846942",
+      "specific_hash": "-1648951928674119556",
+      "names": [
+        "gzungetc"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "145521503254588829",
+      "specific_hash": "-7853781279858653828",
+      "names": [
+        "deflateSetDictionary"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "1469636998229776541",
+      "specific_hash": "197888203180047393",
+      "names": [
+        "deflateStateCheck"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "1490992320660583349",
+      "specific_hash": "-8707110705368806505",
+      "names": [
+        "deflateInit_"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "1520655402828587552",
+      "specific_hash": "-892653023242137384",
+      "names": [
+        "updatewindow.isra.0"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "1520691407927284979",
+      "specific_hash": "-6545675284417480667",
+      "names": [
+        "longest_match"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "1533477837670497780",
+      "specific_hash": "-8316060246178996955",
+      "names": [
+        "inflateBack"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "1536205268020926683",
+      "specific_hash": "-2819515145733553023",
+      "names": [
+        "gz_write"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "1546033382653693759",
+      "specific_hash": "3527239892164846581",
+      "names": [
+        "gzwrite"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "1555840109368189162",
+      "specific_hash": "165850450339151887",
+      "names": [
+        "gzfread"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "1557251116241393166",
+      "specific_hash": "8280614030851392547",
+      "names": [
+        "deflateTune"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "1572859972173430027",
+      "specific_hash": "5957470266613478361",
+      "names": [
+        "inflate_fast"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "1588615944192865945",
+      "specific_hash": "-7473224420901654644",
+      "names": [
+        "MD5_Init"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "1592899823794053567",
+      "specific_hash": "-709013641101810678",
+      "names": [
+        "sha1_multi_block_avx"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "1622646128101584142",
+      "specific_hash": "2514088125057548807",
+      "names": [
+        "inflateBackEnd"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "1632515094385069553",
+      "specific_hash": "3641074623717884701",
+      "names": [
+        "SHA1",
+        "SHA224",
+        "SHA256",
+        "SHA384",
+        "SHA512"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "1697191987502354559",
+      "specific_hash": "4832123887434498381",
+      "names": [
+        "gz_zero"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "1703820776898528548",
+      "specific_hash": "-4501479095709537974",
+      "names": [
+        "strncpy"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "1757066826670473396",
+      "specific_hash": "2909488180659785793",
+      "names": [
+        "gzseek"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "1884941286220249196",
+      "specific_hash": "-6368825016104893558",
+      "names": [
+        "send_tree"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "1888580647936119170",
+      "specific_hash": "-1710963685223467099",
+      "names": [
+        "uncompress2"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "189062773987852035",
+      "specific_hash": "5625573584895419831",
+      "names": [
+        "zlibCompileFlags"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "1941278930800645580",
+      "specific_hash": "3548895014122715563",
+      "names": [
+        "gztell64"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "1973917561929019131",
+      "specific_hash": "-3468738520251752534",
+      "names": [
+        "crc32_z"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "2014364229448961622",
+      "specific_hash": "5131085875779489690",
+      "names": [
+        "gz_avail"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "2041514211162372886",
+      "specific_hash": "8539889303838751729",
+      "names": [
+        "slide_hash"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "2075327553320786828",
+      "specific_hash": "-8006783529828764040",
+      "names": [
+        "gz_reset"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "2096497382297792626",
+      "specific_hash": "4439252711101737531",
+      "names": [
+        "fill_window"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "2136187305567872408",
+      "specific_hash": "-4126176898834557620",
+      "names": [
+        "inflateStateCheck"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "2155414220843657104",
+      "specific_hash": "8308861187138162686",
+      "names": [
+        "sha1_block_data_order_avx2"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "2182999127508313191",
+      "specific_hash": "-3428920285354459726",
+      "names": [
+        "__malloc_arena_thread_freeres"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "2185679555005340643",
+      "specific_hash": "1575726834614075763",
+      "names": [
+        "updatewindow"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "2224521412294630804",
+      "specific_hash": "7819006885962680150",
+      "names": [
+        "inflateReset2"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "2231129352331777579",
+      "specific_hash": "1443102804256278164",
+      "names": [
+        "compressBound"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "2307886590941719950",
+      "specific_hash": "6164872387348462769",
+      "names": [
+        "gzgets"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "2335498245983849463",
+      "specific_hash": "-3857904122810738494",
+      "names": [
+        "gzdirect"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "2368293382574830274",
+      "specific_hash": "-2426665352308614502",
+      "names": [
+        "syncsearch"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "241667433558327565",
+      "specific_hash": "-3918635931859601050",
+      "names": [
+        "_dl_tunable_set_tcache_count"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "243253911847171119",
+      "specific_hash": "5596711476332315239",
+      "names": [
+        "gz_write"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "245419984386914437",
+      "specific_hash": "7600014010447288679",
+      "names": [
+        "inflateCopy"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "2495777029337268220",
+      "specific_hash": "-2029516352494536503",
+      "names": [
+        "deflate_fast"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "2497732801138215826",
+      "specific_hash": "9111335299052583907",
+      "names": [
+        "inflateReset"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "2548458800161182177",
+      "specific_hash": "4698424337568369334",
+      "names": [
+        "deflateResetKeep"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "2565328734772598470",
+      "specific_hash": "-1272440147855171814",
+      "names": [
+        "zcfree"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "2574070732388661317",
+      "specific_hash": "734263193670979082",
+      "names": [
+        "_tr_align"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "2588236640500162496",
+      "specific_hash": "615645877387150171",
+      "names": [
+        "mallopt"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "2607950374457195069",
+      "specific_hash": "-2867750166924605633",
+      "names": [
+        "aligned_alloc"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "2608080376809237668",
+      "specific_hash": "-6132731638750528592",
+      "names": [
+        "deflatePrime"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "261336891082094815",
+      "specific_hash": "3828419846774863682",
+      "names": [
+        "gzungetc"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "2630192446898885187",
+      "specific_hash": "626001332806442593",
+      "names": [
+        "gzprintf"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "2654247529432873209",
+      "specific_hash": "3598815689430710473",
+      "names": [
+        "_tr_align"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "2687140485795324439",
+      "specific_hash": "-1960693857649861209",
+      "names": [
+        "deflateCopy"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "2692404793010834256",
+      "specific_hash": "921246006613685744",
+      "names": [
+        "deflate"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "2703556248829480135",
+      "specific_hash": "6208176259385487510",
+      "names": [
+        "gzoffset64"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "2823765541878251623",
+      "specific_hash": "6108430974435315965",
+      "names": [
+        "malloc_usable_size"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "2882988041235433415",
+      "specific_hash": "-8309222141978248659",
+      "names": [
+        "gz_avail"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "2912076135223031606",
+      "specific_hash": "-4896502399408239757",
+      "names": [
+        "gzsetparams"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "2935491961644542385",
+      "specific_hash": "-2829713376059428986",
+      "names": [
+        "inflatePrime"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "2936625267816487564",
+      "specific_hash": "5888650640965045886",
+      "names": [
+        "gzeof"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "29562082351827004",
+      "specific_hash": "3157988790373522728",
+      "names": [
+        "zcfree"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "2969936746160347954",
+      "specific_hash": "1483937467497642128",
+      "names": [
+        "uncompress2"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "2978139422971446928",
+      "specific_hash": "7600756554994872297",
+      "names": [
+        "gzread"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "3005697838907590294",
+      "specific_hash": "-4262047485732662188",
+      "names": [
+        "zError"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "3034687477090675416",
+      "specific_hash": "-6817888467083305217",
+      "names": [
+        "inflateGetDictionary"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "3051358047967738111",
+      "specific_hash": "3471685974204911630",
+      "names": [
+        "alloc_new_heap"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "3068192285789279893",
+      "specific_hash": "-786248326015747261",
+      "names": [
+        "mallinfo2"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "3086279585039513761",
+      "specific_hash": "-1250325450456523125",
+      "names": [
+        "inflateUndermine"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "3094379421578054496",
+      "specific_hash": "5421759270203929035",
+      "names": [
+        "slide_hash"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "3103520559361540494",
+      "specific_hash": "-3142526901101368380",
+      "names": [
+        "_tr_flush_block"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "311215950902648777",
+      "specific_hash": "3995100709394470981",
+      "names": [
+        "CRYPTO_THREAD_read_lock",
+        "CRYPTO_THREAD_unlock",
+        "CRYPTO_THREAD_write_lock"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "3145752003150579975",
+      "specific_hash": "-3104809425202680949",
+      "names": [
+        "inflatePrime"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "3186209513544549965",
+      "specific_hash": "-3479149589364303678",
+      "names": [
+        "ossl_sha1_ctrl"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "3246497745480106469",
+      "specific_hash": "-3534834307627285573",
+      "names": [
+        "gz_look"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "3332107791141235959",
+      "specific_hash": "-8900965249685709126",
+      "names": [
+        "malloc_trim"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "3357462537150329727",
+      "specific_hash": "7755026447077319817",
+      "names": [
+        "_tr_flush_block"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "3433381013264841547",
+      "specific_hash": "5020969122705747793",
+      "names": [
+        "zError"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "344805323483110413",
+      "specific_hash": "193899494202906720",
+      "names": [
+        "_int_free_maybe_consolidate"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "3470552424428810722",
+      "specific_hash": "4640672451253057800",
+      "names": [
+        "inflateGetHeader"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "3506471889933044662",
+      "specific_hash": "5018098239287666682",
+      "names": [
+        "inflateBackInit_"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "3542456891912266201",
+      "specific_hash": "4956569042628109661",
+      "names": [
+        "CRYPTO_THREAD_init_local",
+        "CRYPTO_THREAD_run_once"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "3604140309186668945",
+      "specific_hash": "-7642781945637234889",
+      "names": [
+        "gz_load"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "360959181388558479",
+      "specific_hash": "-4452995123205892674",
+      "names": [
+        "crc32_combine",
+        "crc32_combine64"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "3617222972370518898",
+      "specific_hash": "-6011251048154448138",
+      "names": [
+        "deflate_rle"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "3626426259692632404",
+      "specific_hash": "4737434807049924207",
+      "names": [
+        "multmodp"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "3627914689243686633",
+      "specific_hash": "8026431647169049208",
+      "names": [
+        "deflateStateCheck"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "3650383096110675723",
+      "specific_hash": "8304781027313463722",
+      "names": [
+        "deflateParams"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "366880869878047295",
+      "specific_hash": "1936052637072896137",
+      "names": [
+        "_dl_tunable_set_mmap_threshold",
+        "_dl_tunable_set_top_pad",
+        "_dl_tunable_set_trim_threshold"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "3727778327399237783",
+      "specific_hash": "-1211770094872260233",
+      "names": [
+        "sha256_multi_block_shaext"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "3737633405860763955",
+      "specific_hash": "9008571807143798063",
+      "names": [
+        "_dl_tunable_set_perturb_byte"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "375367279560017817",
+      "specific_hash": "1339000059980268345",
+      "names": [
+        "flush_pending"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "3777816480138756239",
+      "specific_hash": "5385997619717750475",
+      "names": [
+        "deflate"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "3786719394845723092",
+      "specific_hash": "2112443482432174992",
+      "names": [
+        "sha1_block_data_order"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "3797575971194897396",
+      "specific_hash": "2912859892863309768",
+      "names": [
+        "_int_memalign"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "3812145671647827135",
+      "specific_hash": "-3244336843193711263",
+      "names": [
+        "inflateEnd"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "3830641067478238558",
+      "specific_hash": "5155112918295049924",
+      "names": [
+        "inflateGetHeader"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "3834367294543431679",
+      "specific_hash": "8048915744546591271",
+      "names": [
+        "crc32_combine_op"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "3856032007261206008",
+      "specific_hash": "1190689991398879492",
+      "names": [
+        "deflate_slow"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "3884595822304290540",
+      "specific_hash": "-4159923851945609688",
+      "names": [
+        "inflateSync"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "3967370216732631387",
+      "specific_hash": "-9215505129329831143",
+      "names": [
+        "inflateReset"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "4054349890609606184",
+      "specific_hash": "2185556558032539338",
+      "names": [
+        "gz_error"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "4085284149297794573",
+      "specific_hash": "-755047773192206200",
+      "names": [
+        "deflateSetHeader"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "4090128865481976215",
+      "specific_hash": "3786502646765596007",
+      "names": [
+        "inflateInit_"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "4107524313977705036",
+      "specific_hash": "-1118538353040932109",
+      "names": [
+        "snprintf"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "4123644740074787251",
+      "specific_hash": "8675094402636361537",
+      "names": [
+        "gz_skip"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "4164864260123811397",
+      "specific_hash": "-228832435512387594",
+      "names": [
+        "deflateInit_"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "419302088899009637",
+      "specific_hash": "-8273332998397966328",
+      "names": [
+        "gzread"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "4198823291661592155",
+      "specific_hash": "-5662246764069480220",
+      "names": [
+        "read_buf"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "420277083055787133",
+      "specific_hash": "-6398108644938199217",
+      "names": [
+        "crc_word"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "4209686528184381328",
+      "specific_hash": "4907273513688166398",
+      "names": [
+        "gzclose_r"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "4211801736766754065",
+      "specific_hash": "-6495355853255391678",
+      "names": [
+        "gzclearerr"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "4219959900455566941",
+      "specific_hash": "-1616021887328031537",
+      "names": [
+        "gzungetc"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "4229886009390771989",
+      "specific_hash": "7160684406805320573",
+      "names": [
+        "uncompress2"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "4259701284468932150",
+      "specific_hash": "-959930703820634330",
+      "names": [
+        "deflateBound"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "4318542412060490753",
+      "specific_hash": "-4789405750572963679",
+      "names": [
+        "gz_decomp"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "4328056369187600104",
+      "specific_hash": "4030973652842159272",
+      "names": [
+        "gzdirect"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "4442333924846963088",
+      "specific_hash": "9222034646915366515",
+      "names": [
+        "gz_zero"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "4466333963495093166",
+      "specific_hash": "888667395762723948",
+      "names": [
+        "gzclose_w"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "4478361372791724622",
+      "specific_hash": "6618885726699304468",
+      "names": [
+        "_int_malloc"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "4537020973321992276",
+      "specific_hash": "2603966259059530871",
+      "names": [
+        "systrim.constprop.0"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "4583765266331396625",
+      "specific_hash": "-3845935824296853906",
+      "names": [
+        "crc32_combine_gen",
+        "crc32_combine_gen64"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "4602711818726204361",
+      "specific_hash": "-1169802662416139315",
+      "names": [
+        "gzclearerr"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "4614348376779403254",
+      "specific_hash": "3240055549765038163",
+      "names": [
+        "adler32_combine_"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "4621331653906944159",
+      "specific_hash": "-8356968735234866868",
+      "names": [
+        "gzrewind"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "4624233438884696952",
+      "specific_hash": "-1116387424127916973",
+      "names": [
+        "adler32_combine_"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "4647953551017937547",
+      "specific_hash": "-7330299697038592225",
+      "names": [
+        "deflateEnd"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "4653140687589696072",
+      "specific_hash": "-1861679565790339208",
+      "names": [
+        "gz_look"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "4664002024329831369",
+      "specific_hash": "-6615894153926890504",
+      "names": [
+        "gzfwrite"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "4676154858128523378",
+      "specific_hash": "-3901588265610378484",
+      "names": [
+        "inflateReset2"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "4682086496157374503",
+      "specific_hash": "-9028782458953464865",
+      "names": [
+        "x2nmodp"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "4726855231253548119",
+      "specific_hash": "5794354858527970747",
+      "names": [
+        "deflate"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "4738011384300684296",
+      "specific_hash": "1657252093503828236",
+      "names": [
+        "gzungetc"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "4755064765302702258",
+      "specific_hash": "-1991651326257652551",
+      "names": [
+        "crc32_combine64"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "4773070369850049032",
+      "specific_hash": "1532250278021532287",
+      "names": [
+        "deflate_stored"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "4784546438145263099",
+      "specific_hash": "-8561439292547421409",
+      "names": [
+        "strlen"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "4787840402650804784",
+      "specific_hash": "-5982699911406368398",
+      "names": [
+        "gz_comp"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "4877298637980683634",
+      "specific_hash": "9132002140413477022",
+      "names": [
+        "gzflush"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "4882143534506034156",
+      "specific_hash": "-1674584520962836917",
+      "names": [
+        "deflateBound"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "4903332479441211139",
+      "specific_hash": "-8390961686175605654",
+      "names": [
+        "gen_codes"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "4908013388592413075",
+      "specific_hash": "3037111527017119799",
+      "names": [
+        "uncompress"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "4929756868543769215",
+      "specific_hash": "-7155462312872589014",
+      "names": [
+        "gztell"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "4929756868543769215",
+      "specific_hash": "3159286410811079987",
+      "names": [
+        "gzoffset"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "4954455458607415997",
+      "specific_hash": "-8734292867842724613",
+      "names": [
+        "gz_fetch"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "4955499263364609474",
+      "specific_hash": "-8296153441496420172",
+      "names": [
+        "deflateEnd"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "4968162215214268189",
+      "specific_hash": "3508692895538846492",
+      "names": [
+        "longest_match"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "4979785709627565506",
+      "specific_hash": "9026859377470755542",
+      "names": [
+        "zcalloc"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2",
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "4987217626071090394",
+      "specific_hash": "-5543357057653808074",
+      "names": [
+        "ossl_md5_sha1_final"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "5000497785195995680",
+      "specific_hash": "7743899992683985065",
+      "names": [
+        "_tr_tally"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "5046235558060514839",
+      "specific_hash": "1443853481837335244",
+      "names": [
+        "sha256_block_data_order_ssse3"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "5084224079481543538",
+      "specific_hash": "8921590372054645768",
+      "names": [
+        "sha256_block_data_order_avx2"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "5088359499060078647",
+      "specific_hash": "-3505665953046946393",
+      "names": [
+        "gzsetparams"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "5114847287169638201",
+      "specific_hash": "5639492111181088947",
+      "names": [
+        "putShortMSB"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "5128961518385456585",
+      "specific_hash": "3069672266546947779",
+      "names": [
+        "inflateGetDictionary"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "5189261718872687092",
+      "specific_hash": "-4505422579448145960",
+      "names": [
+        "deflate_fast"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "5201886799151079222",
+      "specific_hash": "1596074114815440112",
+      "names": [
+        "valloc"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "5240427427080359923",
+      "specific_hash": "-3407524172796919116",
+      "names": [
+        "send_tree"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "5257220103424176164",
+      "specific_hash": "9184862192575731268",
+      "names": [
+        "inflateBackInit_"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "5280308451178880123",
+      "specific_hash": "5258182574010896095",
+      "names": [
+        "send_tree"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "5314026834941274352",
+      "specific_hash": "-4975875061198893702",
+      "names": [
+        "gz_avail"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "5331585325099967199",
+      "specific_hash": "892883422364042146",
+      "names": [
+        "_tr_init"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "5345225404872305934",
+      "specific_hash": "5557163172073533794",
+      "names": [
+        "_tr_flush_block"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "5402289256525668092",
+      "specific_hash": "-1649477110036218458",
+      "names": [
+        "compress2"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "544461099352519092",
+      "specific_hash": "-4966371803223143269",
+      "names": [
+        "zError"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "5473498943771537892",
+      "specific_hash": "-8758659377032397810",
+      "names": [
+        "deflate_fast"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "5551524849334763851",
+      "specific_hash": "2305160449178960067",
+      "names": [
+        "gz_open"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "555402502678224434",
+      "specific_hash": "4889664508166693488",
+      "names": [
+        "inflateResetKeep"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "5558449807864249354",
+      "specific_hash": "4769501861993717327",
+      "names": [
+        "gzfwrite"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "5589122492104703713",
+      "specific_hash": "3690736302341329906",
+      "names": [
+        "gzdopen"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "5645465121680890974",
+      "specific_hash": "6201802873476795421",
+      "names": [
+        "flush_pending"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "5654112603393270319",
+      "specific_hash": "-7503520459800547814",
+      "names": [
+        "gz_decomp"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "5660415384495392062",
+      "specific_hash": "4406763666961100500",
+      "names": [
+        "gzgetc_",
+        "gzoffset",
+        "gzseek"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "5718988770622042249",
+      "specific_hash": "-6916562416758660716",
+      "names": [
+        "gzclose_r"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "5755053397992177045",
+      "specific_hash": "-555054689195359228",
+      "names": [
+        "fill_window"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "5755648197802970507",
+      "specific_hash": "5687840380821995349",
+      "names": [
+        "inflateResetKeep"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "5763473373168900052",
+      "specific_hash": "-8506144008814515957",
+      "names": [
+        "malloc"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "5764065512205852186",
+      "specific_hash": "6323553364534967852",
+      "names": [
+        "deflateBound"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "5790029772834028168",
+      "specific_hash": "6769535987283129194",
+      "names": [
+        "inflateSync"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "5795259119677908376",
+      "specific_hash": "-3701140332682460418",
+      "names": [
+        "gzdirect"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "5825348165225143303",
+      "specific_hash": "-4104602792560200065",
+      "names": [
+        "adler32_combine",
+        "adler32_combine64"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "5828792885837382076",
+      "specific_hash": "-3819255574050343732",
+      "names": [
+        "sysmalloc_mmap_fallback.constprop.0"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "5838020176453850928",
+      "specific_hash": "-7949209739798829014",
+      "names": [
+        "deflateSetHeader"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "5872456785801677430",
+      "specific_hash": "-442523645251323166",
+      "names": [
+        "gzputc"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "5947195717817791345",
+      "specific_hash": "-3618788925001092615",
+      "names": [
+        "deflate"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "5978235263834065936",
+      "specific_hash": "-8726541954683851720",
+      "names": [
+        "inflate_fast"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "5984728858882841126",
+      "specific_hash": "-6824267448431222766",
+      "names": [
+        "fill_window"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "599052472730615911",
+      "specific_hash": "-27599439713296168",
+      "names": [
+        "gzclose"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2",
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "6005792706048670765",
+      "specific_hash": "2590144464010770409",
+      "names": [
+        "get_crc_table",
+        "zlibVersion"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "6012045482858227433",
+      "specific_hash": "4683910226393756499",
+      "names": [
+        "ossl_md5_block_asm_data_order"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "6029665526666579279",
+      "specific_hash": "3388172080090389687",
+      "names": [
+        "sha256_multi_block"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "6044560858765219475",
+      "specific_hash": "-8214802661125361700",
+      "names": [
+        "detect_data_type"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "6059169509195505394",
+      "specific_hash": "-5527688477876148295",
+      "names": [
+        "inflateValidate"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "6154812474028258129",
+      "specific_hash": "-2352462750660309758",
+      "names": [
+        "detach_arena.part.0"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "6188698793468213408",
+      "specific_hash": "3263097584519646820",
+      "names": [
+        "inflateUndermine"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2",
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "6240457351631975394",
+      "specific_hash": "-998654157793910417",
+      "names": [
+        "_tr_init"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "6258096353972016181",
+      "specific_hash": "-7325007344231111791",
+      "names": [
+        "__glibc_morecore"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "6333280673296022466",
+      "specific_hash": "-3211017058949543690",
+      "names": [
+        "inflatePrime"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "6350772970884593684",
+      "specific_hash": "-22006739208064056",
+      "names": [
+        "crc32_combine_op"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2",
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "636971651779022621",
+      "specific_hash": "-6125221651570439060",
+      "names": [
+        "sha256_block_data_order_shaext"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "6390675980013389683",
+      "specific_hash": "-2601515114944645055",
+      "names": [
+        "inflateReset"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "644346627039003850",
+      "specific_hash": "-1188922255603293257",
+      "names": [
+        "int_mallinfo"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "6465643916613414330",
+      "specific_hash": "-4071477762314212505",
+      "names": [
+        "deflateInit2_"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "6556166799780876976",
+      "specific_hash": "6900499097419243728",
+      "names": [
+        "multmodp"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "6608840875541812955",
+      "specific_hash": "-8808017100418406973",
+      "names": [
+        "crc32_z"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "6617579043331130227",
+      "specific_hash": "2785510687256814136",
+      "names": [
+        "deflateSetDictionary"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "6672830127862732749",
+      "specific_hash": "3091433836993367966",
+      "names": [
+        "MD5_Final"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "6702353513316859439",
+      "specific_hash": "-2372044942414311471",
+      "names": [
+        "deflate_fast"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "6715239509854340419",
+      "specific_hash": "-929183594022687150",
+      "names": [
+        "bi_flush"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "6728869870573745345",
+      "specific_hash": "-1559480081289054973",
+      "names": [
+        "gzsetparams"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "6730312310090772490",
+      "specific_hash": "2834643012659431460",
+      "names": [
+        "inflateInit2_"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "6748127573535160707",
+      "specific_hash": "-7530822161529399095",
+      "names": [
+        "gz_skip"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "6794803735630575292",
+      "specific_hash": "-3227936053869916551",
+      "names": [
+        "SHA384_Init",
+        "SHA512_Init",
+        "sha512_224_init",
+        "sha512_256_init"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "6813207887018625665",
+      "specific_hash": "3642715267621213768",
+      "names": [
+        "_dl_tunable_set_hugetlb"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "6830712599936398583",
+      "specific_hash": "5375293800888902430",
+      "names": [
+        "gzeof"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "6918049792290459694",
+      "specific_hash": "-1830800121399956577",
+      "names": [
+        "gzerror"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "696837574907841227",
+      "specific_hash": "-320398467960590372",
+      "names": [
+        "fill_window"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "7017765927936323900",
+      "specific_hash": "-6368373075928526562",
+      "names": [
+        "crc32"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "7017765927936323900",
+      "specific_hash": "5963608343172948085",
+      "names": [
+        "adler32"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "7019698856749164749",
+      "specific_hash": "-8359534292726637401",
+      "names": [
+        "malloc_printerr"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "7025044355333306914",
+      "specific_hash": "1681476450809052982",
+      "names": [
+        "gzputs"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "7053077561899865675",
+      "specific_hash": "4725226075714676918",
+      "names": [
+        "SHA1_Init"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "7079423086579305836",
+      "specific_hash": "-6774926217172131419",
+      "names": [
+        "gzprintf"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "7105268880892935876",
+      "specific_hash": "5316648928368657711",
+      "names": [
+        "crc32_combine_gen",
+        "crc32_combine_gen64"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "711121504511208937",
+      "specific_hash": "8919393167449904040",
+      "names": [
+        "gzfwrite"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "7168595168090071850",
+      "specific_hash": "2371669849057595599",
+      "names": [
+        "inflateSetDictionary"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "7219199287654104523",
+      "specific_hash": "2114135702642028897",
+      "names": [
+        "gz_skip"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "7219670245786342382",
+      "specific_hash": "8280575442280761250",
+      "names": [
+        "gzgets"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "7226560106213890706",
+      "specific_hash": "568653022525838008",
+      "names": [
+        "deflateReset"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "72272411515378572",
+      "specific_hash": "-4778821529119482776",
+      "names": [
+        "inflateReset2"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "7275085597735649060",
+      "specific_hash": "-7445788123047930568",
+      "names": [
+        "_tr_stored_block"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "7297030601862371030",
+      "specific_hash": "3582068639449070975",
+      "names": [
+        "inflate_ensure_window"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "732226111845336021",
+      "specific_hash": "-2974566523570794599",
+      "names": [
+        "gz_init"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "7338260034157407068",
+      "specific_hash": "3437765080516167255",
+      "names": [
+        "inflateBack"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "7363447121278490736",
+      "specific_hash": "-5402973168927279458",
+      "names": [
+        "adler32_z"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "7383322172407411488",
+      "specific_hash": "7534550863218737016",
+      "names": [
+        "zcalloc"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "7407664492053325603",
+      "specific_hash": "2301751320900913664",
+      "names": [
+        "gzclose"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "7425162622334256587",
+      "specific_hash": "7631996203132034184",
+      "names": [
+        "sha512_block_data_order_xop"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "7434543470596556013",
+      "specific_hash": "8765518349623896148",
+      "names": [
+        "uncompress2"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "7469351714088172540",
+      "specific_hash": "4212358155747938123",
+      "names": [
+        "gen_bitlen"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "7476807483981768377",
+      "specific_hash": "4769072451011766216",
+      "names": [
+        "gz_init"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "7523485265654686788",
+      "specific_hash": "-570245613122608971",
+      "names": [
+        "bi_windup"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "7555895568439703267",
+      "specific_hash": "-6462414246829135958",
+      "names": [
+        "gzclose_r"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "7572980230469852939",
+      "specific_hash": "-1979893809649016997",
+      "names": [
+        "__malloc_fork_unlock_child"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "7597300164885286792",
+      "specific_hash": "-8350120097602853896",
+      "names": [
+        "crc32_combine_gen64"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "7619099520538504212",
+      "specific_hash": "4233756345108819292",
+      "names": [
+        "inflateStateCheck"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "7626380065994623731",
+      "specific_hash": "-8191694968612123494",
+      "names": [
+        "ossl_ascii_isdigit",
+        "ossl_isdigit"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "7626380065994623731",
+      "specific_hash": "7682433011695103878",
+      "names": [
+        "ossl_islower"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "7626380065994623731",
+      "specific_hash": "8800902489887888329",
+      "names": [
+        "ossl_isupper"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "7654568999076878176",
+      "specific_hash": "7817754600834989799",
+      "names": [
+        "inflateReset2"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "7817223436192986195",
+      "specific_hash": "-7427913447851631168",
+      "names": [
+        "gzfread"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "782739867710621997",
+      "specific_hash": "6130153833628470468",
+      "names": [
+        "__strstr_generic"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "7847330219218322187",
+      "specific_hash": "7843927950330405049",
+      "names": [
+        "gzgetc_"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "7847330219218322187",
+      "specific_hash": "8006968484312731080",
+      "names": [
+        "_tr_flush_bits",
+        "crc32_combine_gen"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "78536189058720333",
+      "specific_hash": "-1063138830636123019",
+      "names": [
+        "inflateSyncPoint"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "7875432252760227221",
+      "specific_hash": "2518128948001859384",
+      "names": [
+        "gzfread"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "7921914583147465339",
+      "specific_hash": "-672513579700779688",
+      "names": [
+        "memalign"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "7956700594799106778",
+      "specific_hash": "3819092175898660904",
+      "names": [
+        "inflateGetDictionary"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "7991679533808869399",
+      "specific_hash": "-3343853478603820822",
+      "names": [
+        "SHA1_Update"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "7991679533808869399",
+      "specific_hash": "-3484410507008447822",
+      "names": [
+        "SHA256_Update"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "7993420806851829632",
+      "specific_hash": "-5583783429766268892",
+      "names": [
+        "inflateInit_"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "8003557267105268751",
+      "specific_hash": "-6369500711023407031",
+      "names": [
+        "sha1_block_data_order_ssse3"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "8006928505798840974",
+      "specific_hash": "7928200744885384009",
+      "names": [
+        "calloc"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "8022156576786747122",
+      "specific_hash": "7814735126499084713",
+      "names": [
+        "_tr_init"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2",
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "8056212668568237761",
+      "specific_hash": "-602062691747488319",
+      "names": [
+        "inflateEnd"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "8060429508868480969",
+      "specific_hash": "-7754847729325939433",
+      "names": [
+        "sha256_block_data_order"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "8066374563622113587",
+      "specific_hash": "-5064449991096056599",
+      "names": [
+        "gzoffset",
+        "gzoffset64"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "8079133063294810541",
+      "specific_hash": "6387890287102360460",
+      "names": [
+        "inflateInit2_"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "8113396410624892344",
+      "specific_hash": "6296891016894036262",
+      "names": [
+        "pvalloc"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "8139805452622546062",
+      "specific_hash": "-7580188849325152379",
+      "names": [
+        "gz_comp"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "8165467987234448048",
+      "specific_hash": "-2087194943730908034",
+      "names": [
+        "gzclearerr"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "8177032268965492802",
+      "specific_hash": "2809434762781853213",
+      "names": [
+        "compress2"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "8268765414992273892",
+      "specific_hash": "4661370318845940839",
+      "names": [
+        "scan_tree"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "8347867033400621756",
+      "specific_hash": "-63899538637568867",
+      "names": [
+        "gzgetc"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "8370167987575437521",
+      "specific_hash": "7859702546672751830",
+      "names": [
+        "deflateSetHeader"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "8370484776224219581",
+      "specific_hash": "6206566316327646728",
+      "names": [
+        "gzclose_r"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "8375909775894892631",
+      "specific_hash": "-4922645637700022671",
+      "names": [
+        "gzrewind"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "8380141968715524451",
+      "specific_hash": "-8538826924742888672",
+      "names": [
+        "inflate_fast"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "840167657788444586",
+      "specific_hash": "-6668254099453485984",
+      "names": [
+        "gzputs"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "8429718710984170229",
+      "specific_hash": "7665514718224277821",
+      "names": [
+        "adler32_z"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "8466488381286171196",
+      "specific_hash": "-6326734165594821121",
+      "names": [
+        "index"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "8473406246589734713",
+      "specific_hash": "5059966709706377956",
+      "names": [
+        "deflate_stored"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "848936251856543909",
+      "specific_hash": "-787973456945726149",
+      "names": [
+        "MD5_Update"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "8516457648312120519",
+      "specific_hash": "-7919765791288225770",
+      "names": [
+        "gzgets"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "8525438791609555500",
+      "specific_hash": "8804299252711024775",
+      "names": [
+        "sysmalloc_mmap.isra.0"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "8559069976027730449",
+      "specific_hash": "-4482671916075245844",
+      "names": [
+        "unlink_chunk.isra.0"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "8569655204891072527",
+      "specific_hash": "2611618228422580236",
+      "names": [
+        "compress_block"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "8599227036990376425",
+      "specific_hash": "8759596239953359698",
+      "names": [
+        "gz_fetch"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "863773624113903558",
+      "specific_hash": "578571702653299230",
+      "names": [
+        "inflateCodesUsed"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "8669465559173462651",
+      "specific_hash": "-3063878583009790412",
+      "names": [
+        "inflate"
+      ],
+      "builds": [
+        "zlib-distro"
+      ]
+    },
+    {
+      "full_hash": "8669669443550856771",
+      "specific_hash": "-7265582821345355796",
+      "names": [
+        "inflate_table"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "8696699403554939916",
+      "specific_hash": "1936772170793076864",
+      "names": [
+        "CRYPTO_THREAD_cleanup_local"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "870962409006260483",
+      "specific_hash": "-2329778290571444665",
+      "names": [
+        "_tr_stored_block"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "8736133082260456092",
+      "specific_hash": "6421341862994229222",
+      "names": [
+        "vsnprintf"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "8761878534339461146",
+      "specific_hash": "8974620557849417965",
+      "names": [
+        "x2nmodp"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "8843891275753379963",
+      "specific_hash": "7593239522066520418",
+      "names": [
+        "inflatePrime"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "8854604284503930484",
+      "specific_hash": "5581809671957012592",
+      "names": [
+        "CRYPTO_THREAD_set_local"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "8934623829929969293",
+      "specific_hash": "-8914058777067759001",
+      "names": [
+        "compress"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "8953077820148118868",
+      "specific_hash": "6349446711585475309",
+      "names": [
+        "malloc_consolidate"
+      ],
+      "builds": [
+        "glibc-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "8954966890199810083",
+      "specific_hash": "2001705867991857370",
+      "names": [
+        "inflateCopy"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "9019169272182050115",
+      "specific_hash": "-3686491000769826634",
+      "names": [
+        "_tr_flush_block"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "9043941462986073211",
+      "specific_hash": "-6232052394122835751",
+      "names": [
+        "gzgets"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O2"
+      ]
+    },
+    {
+      "full_hash": "9096164737434627225",
+      "specific_hash": "9096164737434627225",
+      "names": [
+        "CRYPTO_THREAD_compare_id"
+      ],
+      "builds": [
+        "openssl-distro-subset"
+      ]
+    },
+    {
+      "full_hash": "9128610994211840797",
+      "specific_hash": "-3567351349928653969",
+      "names": [
+        "deflateEnd"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "9140650501409451526",
+      "specific_hash": "-634953063975318398",
+      "names": [
+        "zcalloc"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "9158202485355563107",
+      "specific_hash": "-7838463793445940207",
+      "names": [
+        "gz_intmax"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    },
+    {
+      "full_hash": "9189487787631451150",
+      "specific_hash": "-5720171920147339941",
+      "names": [
+        "deflatePending"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "9206264443939522200",
+      "specific_hash": "4023501011656433750",
+      "names": [
+        "deflateInit2_"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "920792185138804110",
+      "specific_hash": "-6217810382558562422",
+      "names": [
+        "gzopen",
+        "gzopen64"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "971090207695865674",
+      "specific_hash": "2391707930831339282",
+      "names": [
+        "compress"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O1"
+      ]
+    },
+    {
+      "full_hash": "98581832370293684",
+      "specific_hash": "4081391354280179158",
+      "names": [
+        "gzclose"
+      ],
+      "builds": [
+        "zlib-1.3.1-gcc13-O0"
+      ]
+    }
+  ],
+  "per_build_named_hashed_functions": {
+    "glibc-distro-subset": 77,
+    "openssl-distro-subset": 83,
+    "zlib-1.3.1-gcc13-O0": 152,
+    "zlib-1.3.1-gcc13-O1": 127,
+    "zlib-1.3.1-gcc13-O2": 121,
+    "zlib-distro": 121
+  }
+}

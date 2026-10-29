@@ -1,0 +1,71 @@
+{
+  "corpus": "two-engines mini-harvest v1",
+  "builds": [
+    {
+      "build_id": "glibc-distro-subset",
+      "library": "glibc",
+      "version": "distro",
+      "provenance": "subset of distribution libc.a",
+      "compiler": "distribution toolchain",
+      "flags": "distro flags",
+      "archive": "builds/glibc-distro-subset/subset.a",
+      "sha256": "5df83294556fbcd5e9c82783b9c62e821227a78af204c47c5a5ae78ce44649fe",
+      "exported_function_symbols": 41
+    },
+    {
+      "build_id": "openssl-distro-subset",
+      "library": "openssl",
+      "version": "distro",
+      "provenance": "subset of distribution libcrypto.a",
+      "compiler": "distribution toolchain",
+      "flags": "distro flags",
+      "archive": "builds/openssl-distro-subset/subset.a",
+      "sha256": "a1cfe1a3d678517a2df873d0d8d667756afa92becd1af3efdc67cf628963a8b4",
+      "exported_function_symbols": 78
+    },
+    {
+      "build_id": "zlib-1.3.1-gcc13-O0",
+      "library": "zlib",
+      "version": "1.3.1",
+      "provenance": "source build, local",
+      "compiler": "gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0",
+      "flags": "-O0",
+      "archive": "builds/zlib-1.3.1-gcc13-O0/libz.a",
+      "sha256": "70b78d563c8ba62a5c48472cdf0481fa1071b9f6d4de427750ca3fc7b050f796",
+      "exported_function_symbols": 100
+    },
+    {
+      "build_id": "zlib-1.3.1-gcc13-O1",
+      "library": "zlib",
+      "version": "1.3.1",
+      "provenance": "source build, local",
+      "compiler": "gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0",
+      "flags": "-O1",
+      "archive": "builds/zlib-1.3.1-gcc13-O1/libz.a",
+      "sha256": "fb2513e4a7ee086059c4cd3856575957dbc3d29bd0135c72aef2ea3e4cce3806",
+      "exported_function_symbols": 100
+    },
+    {
+      "build_id": "zlib-1.3.1-gcc13-O2",
+      "library": "zlib",
+      "version": "1.3.1",
+      "provenance": "source build, local",
+      "compiler": "gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0",
+      "flags": "-O2",
+      "archive": "builds/zlib-1.3.1-gcc13-O2/libz.a",
+      "sha256": "1885662e0add0e74c1dc3f90344b48261832862d199771ca748f5e0ad79c9c98",
+      "exported_function_symbols": 100
+    },
+    {
+      "build_id": "zlib-distro",
+      "library": "zlib",
+      "version": "distro",
+      "provenance": "distribution binary package, as shipped",
+      "compiler": "distribution toolchain",
+      "flags": "distro flags",
+      "archive": "builds/zlib-distro/libz.a",
+      "sha256": "d9f5f6208214a493583f305c40c9879bfad2cada1ef2753a45e3b0bf8a4c7be2",
+      "exported_function_symbols": 104
+    }
+  ]
+}
