@@ -1,8 +1,8 @@
 # SUNESIS — two engines, one witness
 
 *SUNESIS (Greek σύνεσις: a putting-together — understanding as confluence) is
-the house's free, open replacement for IDA Pro, built in public slices. This
-repository is its first slice: the decompiler witness.*
+a free, open-source decompiler witness, built in public slices. This
+repository is its first slice.*
 
 Two independent open-source decompilers look at the same binary. Where
 they agree, you get pseudocode with corroboration. Where they disagree,
